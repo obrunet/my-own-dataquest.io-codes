@@ -3,7 +3,7 @@
 
 This repository contains all my projects from the Dataquest.io website. 
 These projects serve as reference notes for myself. There a lot of comments in order to show the process. 
-At the end, besides the conclusion and the final analysis, there is a summary of what can be learnt and also further possible investifations.
+At the end, besides the conclusion and the final analysis, there is a summary of what can be learnt and also further possible investigations.
 
 ### Step 01 - Project #1: Exploring US births
 - Goal:
