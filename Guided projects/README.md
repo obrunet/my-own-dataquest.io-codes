@@ -5,12 +5,14 @@ This repository contains all my projects from the Dataquest.io website.
 These projects serve as reference notes for myself. There a lot of comments in order to show the process. At the end, there is a summary of what can be learnt and also further possible investifations.
 
 ### Step 01 - Project #1: Exploring US births
-<sub>Concepts explored: lists, dictionaries, functions, for loops</sub>
-<sup>Functions, methods, and properties used:  .read(), open(), .split(), .append(), int()</sup>
+- Goal:
+- Concepts explored: lists, dictionaries, functions, for loops
+- Functions, methods, and properties used:  .read(), open(), .split(), .append(), int()
 
 ### Step 01 - Project #2: Exploring Gun Deaths in the US
-<sub>Concepts explored: list comprehension, datetime module, csv module</sub>
-<sup>Functions, methods, and properties used:  csv.reader(), .items(), list(), datetime.datetime()</sup>
+- Goal:
+- Concepts explored: list comprehension, datetime module, csv module
+- Functions, methods, and properties used:  csv.reader(), .items(), list(), datetime.datetime()
 
 
 ### Step 02 - Project #1: [Exploring Ebay Car Sales Data](https://github.com/obrunet/my-own-dataquest.io-codes/blob/master/Guided%20projects/Step%2002.01%20Exploring%20Ebay%20Car%20Sales%20Data/Basics.ipynb)
@@ -37,3 +39,6 @@ These projects serve as reference notes for myself. There a lot of comments in o
 - Goal: The FiveThirtyEight team has surveyed Star Wars fans using the online tool SurveyMonkey and has collected data in order to answer questions like "does America realize that “The Empire Strikes Back” is clearly the best of the star wares movies?". In this project, I'm going to clean and explore this data set.
 - Concepts explored: pandas, matplotlib.pyplot, data cleaning, string manipulation, bar plots
 - Functions, methods, and properties used:  .read_csv(), .columns, notnull, map(), .dtypes, .rename, astype(), .mean(), .sum(), .xlabel(), .ylabel()
+
+
+More to come in the next weeks... :)
