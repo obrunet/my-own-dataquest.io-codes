@@ -30,6 +30,8 @@ Guided Project: Explore U.S. Births
 - Guided Project: Visualizing The Gender Gap In College Degrees
 - Conditional plots
 - Visualising geographic data
--Data Cleanning: Combining, Analyzing and Visualising
+- Guided Project: Analyzing NYC High School Data
+- Data Cleanning: Combining, Analyzing and Visualising
+- Guided Project: Star Wars Survey
 
 For the other missions: work in progress :)
