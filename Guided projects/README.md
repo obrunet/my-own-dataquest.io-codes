@@ -2,7 +2,8 @@
 
 
 This repository contains all my projects from the Dataquest.io website. 
-These projects serve as reference notes for myself. There a lot of comments in order to show the process. At the end, there is a summary of what can be learnt and also further possible investifations.
+These projects serve as reference notes for myself. There a lot of comments in order to show the process. 
+At the end, besides the conclusion and the final analysis, there is a summary of what can be learnt and also further possible investifations.
 
 ### Step 01 - Project #1: Exploring US births
 - Goal:
@@ -14,7 +15,7 @@ These projects serve as reference notes for myself. There a lot of comments in o
 - Concepts explored: list comprehension, datetime module, csv module
 - Functions, methods, and properties used:  csv.reader(), .items(), list(), datetime.datetime()
 
-                     ______________________________________________
+
 
 ### Step 02 - Project #1: [Exploring Ebay Car Sales Data](https://github.com/obrunet/my-own-dataquest.io-codes/blob/master/Guided%20projects/Step%2002.01%20Exploring%20Ebay%20Car%20Sales%20Data/Basics.ipynb)
 - Goal: With a sample of 50,000 data points from the the full dataset of used car eBay Kleinanzeigen, the aim of this project is to clean the data and analyze the included used car listing
@@ -41,6 +42,6 @@ These projects serve as reference notes for myself. There a lot of comments in o
 - Concepts explored: pandas, matplotlib.pyplot, data cleaning, string manipulation, bar plots
 - Functions, methods, and properties used:  .read_csv(), .columns, notnull, map(), .dtypes, .rename, astype(), .mean(), .sum(), .xlabel(), .ylabel()
 
-                     ______________________________________________
+
                      
 More to come in the next weeks... :)
