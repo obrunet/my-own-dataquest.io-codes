@@ -1,7 +1,9 @@
 # My solutions to challenges and missions on Dataquest.io
 Personnal backup of my code snippets.
 
-Nothing really special here. My solutions run flawlessly but may differ a little bit from the corrected ones. All the "takeaways" (a summary of what has been learnt in each step) are also provided.
+Nothing really special here. My solutions run flawlessly but may differ a little bit from the corrected ones.
+There is a dedicated folder for the guided projects.
+All the "takeaways" (a summary of what has been learnt in each step) are also provided.
 
 ### Python Programming Beginner
 - Python Basics: Files and Loops, Booleans and If Statements
