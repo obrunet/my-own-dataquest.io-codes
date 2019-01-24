@@ -27,7 +27,7 @@ At the end, besides the conclusion and the final analysis, there is a summary of
 - Concepts explored: pandas, matplotlib, histograms, bar charts, scatterplots, scatter matrices
 - Functions, methods, and properties used:  .plot(), scatter_matrix(), hist(), iloc[], .head(), .tail(), .describe()
 
-### Step 02 - Project #3: [Visualizing The Gender Gap In College Degrees](https://github.com/obrunet/my-own-dataquest.io-codes/blob/master/Guided%20projects/Step%2002.03%20Project_%20Visualizing%20The%20Gender%20Gap%20In%20College%20Degrees/percent-bachelors-degrees-women-usa.csv)
+### Step 02 - Project #3: [Visualizing The Gender Gap In College Degrees](https://github.com/obrunet/my-own-dataquest.io-codes/blob/master/Guided%20projects/Step%2002.03%20Project_%20Visualizing%20The%20Gender%20Gap%20In%20College%20Degrees/Basics.ipynb)
 - Goal: Generation of line charts to compare the gender gap across all degree categories. Export of the final diagram created as an image file.
 - Concepts explored: pandas, matplotlib, histograms, line plots, chart graphics
 - Functions, methods, and properties used:  .savefig(), .text(), .axhline(), .set_yticks(), .tick_params(), .set_title(), .set_ylim(), .set_xlim(), .spines(), .tick_params()
