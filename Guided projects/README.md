@@ -42,6 +42,11 @@ At the end, besides the conclusion and the final analysis, there is a summary of
 - Concepts explored: pandas, matplotlib.pyplot, data cleaning, string manipulation, bar plots
 - Functions, methods, and properties used:  .read_csv(), .columns, notnull, map(), .dtypes, .rename, astype(), .mean(), .sum(), .xlabel(), .ylabel()
 
+### Step 04 - Project #1: [Analyzing CIA Factbook](https://github.com/obrunet/my-own-dataquest.io-codes/blob/master/Guided%20projects/Step%2004.01%20Analyzing%20CIA%20Factbook%20Data%20Using%20SQLite%20and%20Python/Basics.ipynb)
+- Goal: Based on the data from the CIA World Factbook, analysis of the population as of 2015, its growth rate, area of diffrerent countries, their density...
+- Python/SQL concepts explored: python+sqlite3, pandas, SQL queries, SQL subqueries, matplotlib.plyplot, seaborn, histograms
+- Functions, methods, and properties used: .cursor(), .read_sql_query(), .set_xlabel(), .set_xlim(), .add_subplot(), .figure()
+SQL statements used: SELECT, WHERE, FROM, MIN(), MAX(), ORDER BY, AND
 
                      
 ##### More to come in the next weeks... :)
