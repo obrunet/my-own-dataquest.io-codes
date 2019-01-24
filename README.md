@@ -2,7 +2,7 @@
 Personnal backup of my code snippets.
 
 Nothing really special here. My solutions run flawlessly but may differ a little bit from the corrected ones.
-There is a dedicated folder for the guided projects.
+[There is a dedicated folder for the guided projects.](https://github.com/obrunet/my-own-dataquest.io-codes/tree/master/Guided%20projects)
 All the "takeaways" (a summary of what has been learnt in each step) are also provided.
 
 ### Python Programming Beginner
@@ -36,4 +36,16 @@ Guided Project: Explore U.S. Births
 - Data Cleanning: Combining, Analyzing and Visualising
 - Guided Project: Star Wars Survey
 
-For the other missions: work in progress :)
+### Command Line
+- Command Line Basics
+- Command Line Python Scripting
+- For the other missions: work in progress :)
+
+### Working with Data Sources
+- SQL, Summary Statistics, Querying SQLite from Python
+- Joins in SQL
+- Building Complex Queries
+- For the other missions: work in progress :)
+
+### Probability and Statistics
+- For the other missions: work in progress :)
