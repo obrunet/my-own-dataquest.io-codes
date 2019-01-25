@@ -5,17 +5,11 @@ This repository contains all my projects from the Dataquest.io website.
 These projects serve as reference notes for myself. There a lot of comments in order to show the process. 
 At the end, besides the conclusion and the final analysis, there is a summary of what can be learnt and also further possible investigations.
 
-### Step 01 - Project #1: Exploring US births
-- Goal:
-- Concepts explored: lists, dictionaries, functions, for loops
-- Functions, methods, and properties used:  .read(), open(), .split(), .append(), int()
+### Step 01 - Project #1: Exploring US births (old course)
+- Not done. Dataquest changed this course few week ago...
 
-### Step 01 - Project #2: Exploring Gun Deaths in the US
-- Goal:
-- Concepts explored: list comprehension, datetime module, csv module
-- Functions, methods, and properties used:  csv.reader(), .items(), list(), datetime.datetime()
-
-
+### Step 01 - Project #2: Exploring Gun Deaths in the US (old course)
+- Files not saved and no backup :( Unfortunately Dataquest changed this course few week ago and i've lost the files. I'll do the new challenge in few weeks :]
 
 ### Step 02 - Project #1: [Exploring Ebay Car Sales Data](https://github.com/obrunet/my-own-dataquest.io-codes/blob/master/Guided%20projects/Step%2002.01%20Exploring%20Ebay%20Car%20Sales%20Data/Basics.ipynb)
 - Goal: With a sample of 50,000 data points from the the full dataset of used car eBay Kleinanzeigen, the aim of this project is to clean the data and analyze the included used car listing
@@ -46,7 +40,12 @@ At the end, besides the conclusion and the final analysis, there is a summary of
 - Goal: Based on the data from the CIA World Factbook, analysis of the population as of 2015, its growth rate, area of diffrerent countries, their density...
 - Python/SQL concepts explored: python+sqlite3, pandas, SQL queries, SQL subqueries, matplotlib.plyplot, seaborn, histograms
 - Functions, methods, and properties used: .cursor(), .read_sql_query(), .set_xlabel(), .set_xlim(), .add_subplot(), .figure()
-SQL statements used: SELECT, WHERE, FROM, MIN(), MAX(), ORDER BY, AND
+- SQL statements used: SELECT, WHERE, FROM, MIN(), MAX(), ORDER BY, AND
 
+### Step 04 - Project #2: [Answering Business Questions using SQL](https://github.com/obrunet/my-own-dataquest.io-codes/blob/master/Guided%20projects/Step%2004.02%20Answering%20Business%20Questions%20using%20SQL/Basics.ipynb)
+- Goal: With the Chinook database including the invoice of a platform selling music tracks and albums, analyse the top selling genres, the performances of employees, the sales by countries and the percentage of purchases for individual tracks vs whole albums.
+- Python/SQL concepts explored: python+sqlite3, pandas, SQL queries, SQL subqueries, matplotlib.plyplot, pie charts
+- Functions, methods, and properties used: pd.read_sql(,), conn.execute(), plot.bar() & plot.barh(), plot.pie()
+- SQL statements used: SELECT, FROM, SUM(), INNER JOIN, GROUP BY, ORDER BY, WITH, CASE,  subqueries, multiple joins, set operations, aggregate functions and more
                      
-##### More to come in the next weeks... :)
+##### More to come in the next weeks... stay tuned :)
