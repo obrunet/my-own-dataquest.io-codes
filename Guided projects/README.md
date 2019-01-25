@@ -42,7 +42,7 @@ At the end, besides the conclusion and the final analysis, there is a summary of
 - Functions, methods, and properties used: .cursor(), .read_sql_query(), .set_xlabel(), .set_xlim(), .add_subplot(), .figure()
 - SQL statements used: SELECT, WHERE, FROM, MIN(), MAX(), ORDER BY, AND
 
-### Step 04 - Project #2: [Answering Business Questions using SQL](https://github.com/obrunet/my-own-dataquest.io-codes/blob/master/Guided%20projects/Step%2004.02%20Answering%20Business%20Questions%20using%20SQL/Basics.ipynb)
+### Step 04 - Project #2: [Answering Business Questions using SQL](https://github.com/obrunet/my-own-dataquest.io-codes/blob/master/Guided%20projects/Step%2004.02%20Answering%20Business%20Questions%20using%20SQL/Basics.ipynb) (not entirely finished)
 - Goal: With the Chinook database including the invoice of a platform selling music tracks and albums, analyse the top selling genres, the performances of employees, the sales by countries and the percentage of purchases for individual tracks vs whole albums.
 - Python/SQL concepts explored: python+sqlite3, pandas, SQL queries, SQL subqueries, matplotlib.plyplot, pie charts
 - Functions, methods, and properties used: pd.read_sql(,), conn.execute(), plot.bar() & plot.barh(), plot.pie()
