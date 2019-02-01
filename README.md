@@ -84,11 +84,36 @@ All the "takeaways" (a summary of what has been learnt in each step) are also pr
 	* Merge Conflicts
 	* Project: Git Installation and GitHub Integration
 
-### Working with Data Sources
-- SQL, Summary Statistics, Querying SQLite from Python
-- Joins in SQL
-- Building Complex Queries
-- For the other missions: work in progress :)
+### Step 4 - Working with Data Sources
+
+* SQL Fundamentals
+	* Introduction to SQL
+	* Summary Statistics
+	* Group Summary Statistics
+	* Subqueries
+	* Querying SQLite from Python
+	* Guided Project: Analyzing CIA Factbook Data Using SQLite and Python
+
+* SQL Intermediate: Table Relations and Joins
+	* Joining Data in SQL
+	* Intermediate Joins in SQL
+	* Building and Organizing Complex Queries
+	* Guided Project: Answering Business Questions using SQL
+	* Table Relations and Normalization
+	* Guided Project: Designing and Creating a Database
+
+* SQL and Databases: Advanced
+	* Using PostgreSQL
+	* Command line PostgreSQL
+	* Project: PostgreSQL Installation
+	* Introduction to Indexing
+	* Multi-column indexing
+
+* APIs and Web Scraping
+	* Working with APIs
+	* Intermediate APIs
+	* Challenge: Working with the reddit API
+	* Web Scraping 
 
 ### Probability and Statistics -> 
 - For the other missions: work in progress :)
