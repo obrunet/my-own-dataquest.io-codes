@@ -115,5 +115,29 @@ All the "takeaways" (a summary of what has been learnt in each step) are also pr
 	* Challenge: Working with the reddit API
 	* Web Scraping 
 
-### Probability and Statistics -> 
-- For the other missions: work in progress :)
+### Step 5 - Probability and Statistics -> Not finished yet... WORK IN PROGRESS :)
+
+* Statistics Fundamentals
+	* Sampling
+	* Variables in Statistics
+	* Frequency Distributions
+	* Visualizing Frequency Distributions
+	* Comparing Frequency Distributions
+	* Guided Project: Investigating Fandango Movie Ratings
+
+* Statistics Intermediate: Averages and Variability
+	* The Mean
+	* The Weighted Mean and the Median
+	* The Mode
+	* Measures of Variability
+	* Z-scores
+	* Guided Project: Finding the Best Markets to Advertise In
+
+* Probability and Statistics in Python: Intermediate
+	* Introduction to probability
+	* Calculating probabilities
+	* Probability distributions
+	* Significance Testing
+	* Chi-squared tests
+	* Multi category chi-squared tests
+	* Guided Project: Winning Jeopardy 
