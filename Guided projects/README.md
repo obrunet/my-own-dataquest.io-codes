@@ -42,10 +42,15 @@ At the end, besides the conclusion and the final analysis, there is a summary of
 - Functions, methods, and properties used: .cursor(), .read_sql_query(), .set_xlabel(), .set_xlim(), .add_subplot(), .figure()
 - SQL statements used: SELECT, WHERE, FROM, MIN(), MAX(), ORDER BY, AND
 
-### Step 04 - Project #2: [Answering Business Questions using SQL](https://github.com/obrunet/my-own-dataquest.io-codes/blob/master/Guided%20projects/Step%2004.02%20Answering%20Business%20Questions%20using%20SQL/Basics.ipynb) (not entirely finished)
+### Step 04 - Project #2: [Answering Business Questions using SQL](https://github.com/obrunet/my-own-dataquest.io-codes/blob/master/Guided%20projects/Step%2004.02%20Answering%20Business%20Questions%20using%20SQL/Basics.ipynb)
 - Goal: With the Chinook database including the invoice of a platform selling music tracks and albums, analyse the top selling genres, the performances of employees, the sales by countries and the percentage of purchases for individual tracks vs whole albums.
 - Python/SQL concepts explored: python+sqlite3, pandas, SQL queries, SQL subqueries, matplotlib.plyplot, pie charts
 - Functions, methods, and properties used: pd.read_sql(,), conn.execute(), plot.bar() & plot.barh(), plot.pie()
 - SQL statements used: SELECT, FROM, SUM(), INNER JOIN, GROUP BY, ORDER BY, WITH, CASE,  subqueries, multiple joins, set operations, aggregate functions and more
+
+### Step 05 - Project #1: [Analyzing Fandango Movie Reviews](https://github.com/obrunet/my-own-dataquest.io-codes/blob/master/Guided%20projects/Step%2005.01.%20Analyzing%20Fandango%20Movie%20Reviews/Basics.ipynb)
+- Goal: analysis of more recent movie ratings data to determine whether there are still lightly inflated and biaised.
+- Python concepts explored: pandas, descriptive statistics, numpy, matplotlib, distributions using kernel density plots, plot bar, histogram
+- Functions, methods, and properties used: .sort_values(), .hist(), .mean(), .median(), .mode(), .plot.kde(), .value_counts(), .plot.bar()
                      
 ##### More to come in the next weeks... stay tuned :)
