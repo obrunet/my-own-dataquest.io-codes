@@ -49,13 +49,13 @@ At the end, besides the conclusion and the final analysis, there is a summary of
 - SQL statements used: SELECT, FROM, SUM(), INNER JOIN, GROUP BY, ORDER BY, WITH, CASE,  subqueries, multiple joins, set operations, aggregate functions and more
 
 ### Step 05 - Project #1: [Analyzing Fandango Movie Reviews](https://github.com/obrunet/my-own-dataquest.io-codes/blob/master/Guided%20projects/Step%2005.01.%20Analyzing%20Fandango%20Movie%20Reviews/Basics.ipynb)
-- Goal: analysis of more recent movie ratings data to determine whether there are still lightly inflated and biaised.
+- Goal: Analysis of more recent movie ratings data to determine whether there are still lightly inflated and biaised.
 - Python concepts explored: pandas, descriptive statistics, numpy, matplotlib, distributions using kernel density plots, plot bar, histogram
 - Functions, methods, and properties used: .sort_values(), .hist(), .mean(), .median(), .mode(), .plot.kde(), .value_counts(), .plot.bar()
 
 ### Step 05.02 - Project #2: [Finding the Best Markets to Advertise In](https://github.com/obrunet/my-own-dataquest.io-codes/blob/master/Guided%20projects/Step%2005.02%20Finding%20the%20Best%20Markets%20to%20Advertise%20In/Basics.ipynb)
-- Goal: analysis of more recent movie ratings data to determine whether there are still lightly inflated and biaised.
-- Python concepts explored: pandas, descriptive statistics, numpy, matplotlib, distributions using kernel density plots, plot bar, histogram
-- Functions, methods, and properties used: .sort_values(), .hist(), .mean(), .median(), .mode(), .plot.kde(), .value_counts(), .plot.bar()
+- Goal: Our e-learning company offers courses on web and mobile development but also covers many other domains, like data science. How to promote our products ? Find out the two best markets to advertise our product in.
+- Python concepts explored: pandas, descriptive statistics, distributions, outliers removing, absolute and relative frequencies,
+- Functions, methods, and properties used: .dropna(), .notnull(), .replace(), .sort_values(), .value_counts(), .mean(), .median().
                      
 ##### More to come in the next weeks... stay tuned :)
