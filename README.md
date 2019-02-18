@@ -2,7 +2,7 @@
 Personnal backup of my code snippets.
 
 Nothing really special here. My solutions run flawlessly but may differ a little bit from the corrected ones.
-[There is a dedicated folder for the guided projects.](https://github.com/obrunet/my-own-dataquest.io-codes/tree/master/Guided%20projects)
+[There is a dedicated folder for the projects.](https://github.com/obrunet/my-own-dataquest.io-codes/tree/master/Projects)
 All the "takeaways" (a summary of what has been learnt in each step) are also provided.
 
 ### Step 1 - Introduction to Python
