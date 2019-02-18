@@ -53,7 +53,7 @@ All the "takeaways" (a summary of what has been learnt in each step) are also pr
 	* Data Cleaning Walkthrough
 	* Data Cleaning Walkthrough: Combining the Data
 	* Data Cleaning Walkthrough: Analyzing and Visualizing the Data
-	* Guided Project: Analyzing NYC High School Data
+	* Project: Analyzing NYC High School Data
 	* Challenge: Cleaning Data
 	* Project: Star Wars Survey 
 
