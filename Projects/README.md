@@ -36,24 +36,24 @@ At the end, besides the conclusion and the final analysis, there is a summary of
 - Concepts explored: pandas, matplotlib.pyplot, data cleaning, string manipulation, bar plots
 - Functions, methods, and properties used:  .read_csv(), .columns, notnull, map(), .dtypes, .rename, astype(), .mean(), .sum(), .xlabel(), .ylabel()
 
-### Step 04 - Project #1: [Analyzing CIA Factbook](https://github.com/obrunet/my-own-dataquest.io-codes/blob/master/Guided%20projects/Step%2004.01%20Analyzing%20CIA%20Factbook%20Data%20Using%20SQLite%20and%20Python/Basics.ipynb)
+### Step 04 - Project #1: [Analyzing CIA Factbook](https://github.com/obrunet/my-own-dataquest.io-codes/blob/master/Projects/Step%2004.01%20Analyzing%20CIA%20Factbook%20Data%20Using%20SQLite%20and%20Python/Basics.ipynb)
 - Goal: Based on the data from the CIA World Factbook, analysis of the population as of 2015, its growth rate, area of diffrerent countries, their density...
 - Python/SQL concepts explored: python+sqlite3, pandas, SQL queries, SQL subqueries, matplotlib.plyplot, seaborn, histograms
 - Functions, methods, and properties used: .cursor(), .read_sql_query(), .set_xlabel(), .set_xlim(), .add_subplot(), .figure()
 - SQL statements used: SELECT, WHERE, FROM, MIN(), MAX(), ORDER BY, AND
 
-### Step 04 - Project #2: [Answering Business Questions using SQL](https://github.com/obrunet/my-own-dataquest.io-codes/blob/master/Guided%20projects/Step%2004.02%20Answering%20Business%20Questions%20using%20SQL/Basics.ipynb) (not entirely finished...)
+### Step 04 - Project #2: [Answering Business Questions using SQL](https://github.com/obrunet/my-own-dataquest.io-codes/blob/master/Projects/Step%2004.02%20Answering%20Business%20Questions%20using%20SQL/Basics.ipynb) (not entirely finished...)
 - Goal: With the Chinook database including the invoice of a platform selling music tracks and albums, analyse the top selling genres, the performances of employees, the sales by countries and the percentage of purchases for individual tracks vs whole albums.
 - Python/SQL concepts explored: python+sqlite3, pandas, SQL queries, SQL subqueries, matplotlib.plyplot, pie charts
 - Functions, methods, and properties used: pd.read_sql(,), conn.execute(), plot.bar() & plot.barh(), plot.pie()
 - SQL statements used: SELECT, FROM, SUM(), INNER JOIN, GROUP BY, ORDER BY, WITH, CASE,  subqueries, multiple joins, set operations, aggregate functions and more
 
-### Step 05 - Project #1: [Analyzing Fandango Movie Reviews](https://github.com/obrunet/my-own-dataquest.io-codes/blob/master/Guided%20projects/Step%2005.01.%20Analyzing%20Fandango%20Movie%20Reviews/Basics.ipynb)
+### Step 05 - Project #1: [Analyzing Fandango Movie Reviews](https://github.com/obrunet/my-own-dataquest.io-codes/blob/master/Projects/Step%2005.01%20Analyzing%20Fandango%20Movie%20Reviews/Basics.ipynb)
 - Goal: Analysis of more recent movie ratings data to determine whether there are still lightly inflated and biaised.
 - Python concepts explored: pandas, descriptive statistics, numpy, matplotlib, distributions using kernel density plots, plot bar, histogram
 - Functions, methods, and properties used: .sort_values(), .hist(), .mean(), .median(), .mode(), .plot.kde(), .value_counts(), .plot.bar()
 
-### Step 05.02 - Project #2: [Finding the Best Markets to Advertise In](https://github.com/obrunet/my-own-dataquest.io-codes/blob/master/Guided%20projects/Step%2005.02%20Finding%20the%20Best%20Markets%20to%20Advertise%20In/Basics.ipynb)
+### Step 05.02 - Project #2: [Finding the Best Markets to Advertise In](https://github.com/obrunet/my-own-dataquest.io-codes/blob/master/Projects/Step%2005.02%20Finding%20the%20Best%20Markets%20to%20Advertise%20In/Basics.ipynb)
 - Goal: Our e-learning company offers courses on web and mobile development but also covers many other domains, like data science. How to promote our products ? Find out the two best markets to advertise our product in.
 - Python concepts explored: pandas, descriptive statistics, distributions, outliers removing, absolute and relative frequencies,
 - Functions, methods, and properties used: .dropna(), .notnull(), .replace(), .sort_values(), .value_counts(), .mean(), .median().
