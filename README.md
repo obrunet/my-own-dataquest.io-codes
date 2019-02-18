@@ -15,7 +15,7 @@ All the "takeaways" (a summary of what has been learnt in each step) are also pr
 	* Functions: Fundamentals
 	* Functions: Intermediate
 	* Project: Learn and Install Jupyter Notebook
-	* Guided Project: Profitable App Profiles for the App Store and Google Play Markets
+	* Project: Profitable App Profiles for the App Store and Google Play Markets
 
 * Python for Data Science: Intermediate
 	* Working with Strings in Python
@@ -23,7 +23,7 @@ All the "takeaways" (a summary of what has been learnt in each step) are also pr
 	* Working with Dates and Times in Python
 	* Regular Expressions in Python
 	* Python Tips and Tricks
-	* Guided Project: Exploring Hacker News Posts 
+	* Project: Exploring Hacker News Posts 
 
 ### Step 2 - Intermediate Python and Pandas
 
@@ -33,19 +33,19 @@ All the "takeaways" (a summary of what has been learnt in each step) are also pr
 	* Introduction to pandas
 	* Exploring Data with pandas
 	* Data Cleaning Basics
-	* Guided Project: Exploring Ebay Car Sales Data
+	* Project: Exploring Ebay Car Sales Data
 
 * Exploratory Data Visualization
 	* Line Charts
 	* Multiple plots
 	* Bar Plots And Scatter Plots
 	* Histograms And Box Plots
-	* Guided Project: Visualizing Earnings Based On College Majors
+	* Project: Visualizing Earnings Based On College Majors
 
 * Storytelling Through Data Visualization
 	* Improving Plot Aesthetics
 	* Color, Layout, and Annotations
-	* Guided Project: Visualizing The Gender Gap In College Degrees
+	* Project: Visualizing The Gender Gap In College Degrees
 	* Conditional Plots
 	* Visualizing Geographic Data
 
@@ -55,7 +55,7 @@ All the "takeaways" (a summary of what has been learnt in each step) are also pr
 	* Data Cleaning Walkthrough: Analyzing and Visualizing the Data
 	* Guided Project: Analyzing NYC High School Data
 	* Challenge: Cleaning Data
-	* Guided Project: Star Wars Survey 
+	* Project: Star Wars Survey 
 
 ### Step 3 - The Command Line
 
@@ -66,15 +66,15 @@ All the "takeaways" (a summary of what has been learnt in each step) are also pr
 	* Working with Programs
 	* Command Line Python Scripting
 	* Challenge: Working with the Command Line
-	* Guided Project: Working With Data Downloads
-	* Guided Project: Installing Cygwin
-	* Guided Project: Installing Windows Subsystem for Linux
+	* Project: Working With Data Downloads
+	* Project: Installing Cygwin
+	* Project: Installing Windows Subsystem for Linux
 
 * Command Line: Intermediate
 	* Working with Jupyter console
 	* Piping and redirecting output
 	* Challenge: Data Munging Using The Command Line
-	* Guided Project: Transforming data with Python
+	* Project: Transforming data with Python
 	* Data Cleaning and Exploration Using Csvkit
 
 * Git and Version Control
@@ -92,15 +92,15 @@ All the "takeaways" (a summary of what has been learnt in each step) are also pr
 	* Group Summary Statistics
 	* Subqueries
 	* Querying SQLite from Python
-	* Guided Project: Analyzing CIA Factbook Data Using SQLite and Python
+	* Project: Analyzing CIA Factbook Data Using SQLite and Python
 
 * SQL Intermediate: Table Relations and Joins
 	* Joining Data in SQL
 	* Intermediate Joins in SQL
 	* Building and Organizing Complex Queries
-	* Guided Project: Answering Business Questions using SQL
+	* Project: Answering Business Questions using SQL
 	* Table Relations and Normalization
-	* Guided Project: Designing and Creating a Database
+	* Project: Designing and Creating a Database
 
 * SQL and Databases: Advanced
 	* Using PostgreSQL
@@ -123,7 +123,7 @@ All the "takeaways" (a summary of what has been learnt in each step) are also pr
 	* Frequency Distributions
 	* Visualizing Frequency Distributions
 	* Comparing Frequency Distributions
-	* Guided Project: Investigating Fandango Movie Ratings
+	* Project: Investigating Fandango Movie Ratings
 
 * Statistics Intermediate: Averages and Variability
 	* The Mean
@@ -131,7 +131,7 @@ All the "takeaways" (a summary of what has been learnt in each step) are also pr
 	* The Mode
 	* Measures of Variability
 	* Z-scores
-	* Guided Project: Finding the Best Markets to Advertise In
+	* Project: Finding the Best Markets to Advertise In
 
 * Probability and Statistics in Python: Intermediate
 	* Introduction to probability
@@ -140,4 +140,4 @@ All the "takeaways" (a summary of what has been learnt in each step) are also pr
 	* Significance Testing
 	* Chi-squared tests
 	* Multi category chi-squared tests
-	* Guided Project: Winning Jeopardy 
+	* Project: Winning Jeopardy 
