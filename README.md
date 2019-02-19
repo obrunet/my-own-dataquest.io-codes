@@ -115,7 +115,7 @@ All the "takeaways" (a summary of what has been learnt in each step) are also pr
 	* Challenge: Working with the reddit API
 	* Web Scraping 
 
-### Step 5 - Probability and Statistics -> Not finished yet... WORK IN PROGRESS :)
+### Step 5 - Probability and Statistics
 
 * Statistics Fundamentals
 	* Sampling
