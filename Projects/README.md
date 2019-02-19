@@ -58,7 +58,7 @@ At the end, besides the conclusion and the final analysis, there is a summary of
 - Python concepts explored: pandas, descriptive statistics, distributions, outliers removing, absolute and relative frequencies,
 - Functions, methods, and properties used: .dropna(), .notnull(), .replace(), .sort_values(), .value_counts(), .mean(), .median().
                      
-### Step 05.03 - Project #3: [Winning Jeopardy](https://github.com/obrunet/my-own-dataquest.io-codes/blob/master/Projects/Step%2005.03%20Winning%20Jeopardy/Basics.ipynb)
+### Step 05.03 - Project #3: [Winning Jeopardy](https://github.com/obrunet/my-own-dataquest.io-codes/blob/master/Projects/Step%2005.03%20Winning%20Jeopardy/Basics.ipynb) (Results at the end are a little bit weird... I'll investigate this later...)
 - Goal: Jeopardy is a popular TV show in the US where participants answer questions to win money. Let's say we want to compete on Jeopardy. Figure out if there are some patterns in the questions that could help.
 - Python concepts explored: scipy.stats, descriptive statistics, normalizing text and values, chi-squared
 - Functions, methods, and properties used: .chisquare(), regex .mean(), .iterrows(), .apply().
