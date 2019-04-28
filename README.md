@@ -141,3 +141,5 @@ All the "takeaways" (a summary of what has been learnt in each step) are also pr
 	* Chi-squared tests
 	* Multi category chi-squared tests
 	* Project: Winning Jeopardy 
+
+The data scientist part will be added in few weeks... stay tuned :)
